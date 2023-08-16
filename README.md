@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sayantan Barai, an Embedded Softwere Engineer, working on Autosar
 - 👀 I’m interested in Embedded System projects
-- 🌱 I’m currently learning C and Embedded C
 - 💞️ I’m looking to collaborate on Embedded System projects
 - 📫 You can drop a mail at barai1996sayantan@gmail.com
 
